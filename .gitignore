@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Data files (optional, good for large files)
+# data/heart_disease_uci.csv
